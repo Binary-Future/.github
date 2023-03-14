@@ -5,5 +5,5 @@ Binary Future is a software company that uses the latest technologies to provide
 ## Visit our Youtube channel:
 
 <a href="https://www.youtube.com/@binaryfuture9845">
-    <img src="https://skillicons.dev/icons?i=youtube" />
-  </a>
+    <label>Youtube</label>    
+</a>
